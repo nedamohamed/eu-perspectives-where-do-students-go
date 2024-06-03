@@ -10,20 +10,36 @@
 <body>
     <header>
         <h1>EUropean Perspectives: Student Mobility within the European Union Countries and its Partners</h1>
+        <nav>
+            <ul class="nav-list">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#visualization1">Visualization 1</a></li>
+                <li><a href="#visualization2">Visualization 2</a></li>
+                <!-- Add more visualizations as needed -->
+            </ul>
+        </nav>
     </header>
     <main>
-        <section class="graph-section">
+        <section id="home">
+            <h2>About the Project</h2>
+            <p>This project explores student mobility within the European Union and its partner countries. The visualizations provide insights into the number of incoming and outgoing students, their countries of origin, and other relevant data.</p>
+        </section>
+        <section id="visualization1" class="graph-section">
             <h2>Incoming Students by Country of Origin</h2>
             <div class="graph-container">
                 <iframe src="Visualizations/incoming_students.html" class="graph" frameborder="0"></iframe>
-                <div class="graph" id="graph1">
-                    <!-- Example HTML graph content -->
-                </div>
+            </div>
+        </section>
+        <section id="visualization2" class="graph-section">
+            <h2>Outgoing Students by Country of Destination</h2>
+            <div class="graph-container">
+                <iframe src="Visualizations/outgoing_students.html" class="graph" frameborder="0"></iframe>
             </div>
         </section>
         <!-- Add more sections as needed -->
     </main>
     <footer>
+        <p>&copy; 2024 European Student Mobility Project</p>
     </footer>
 </body>
 </html>
