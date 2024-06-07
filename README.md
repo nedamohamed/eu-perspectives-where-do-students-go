@@ -13,27 +13,27 @@ This project explores student mobility patterns within the European Union and it
 
 ## Structure
 The repository is organized as follows:
-
-eu-perspectives-where-do-students-go/
-│
-├── Analysis Scripts/
-│   ├── script1.py
-│   └── script2.py
-│
-├── Visualizations/
-│   ├── visualization1.html
-│   ├── visualization2.html
-│   └── visualization3.html
-│
-├── .github/
-│   └── workflows/
-│       └── ci.yml
-│
-├── .gitignore
-├── README.md
-├── index.html
-├── scripts.js
-└── styles.css
+```csharp
+   eu-perspectives-where-do-students-go/
+   │
+   ├── Analysis Scripts/
+   │   ├── script1.py
+   │   └── script2.py
+   │
+   ├── Visualizations/
+   │   ├── visualization1.html
+   │   ├── visualization2.html
+   │   └── visualization3.html
+   │
+   ├── .github/
+   │   └── workflows/
+   │       └── ci.yml
+   │
+   ├── .gitignore
+   ├── README.md
+   ├── index.html
+   ├── scripts.js
+   └── styles.css
 
 
 ### Main Files and Directories
