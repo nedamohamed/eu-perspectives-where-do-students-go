@@ -1,6 +1,7 @@
 # EU Perspectives: Where Do Students Go?
 
 This repository is my submission for CS 414/514 (Network Science). It is a small-scale study aimed at mapping the trends behind student mobility within the EU and its partners.
+You can visit the project website for the visualisations: [EU Perspectives: Where Do Students Go?](https://nedamohamed.github.io/eu-perspectives-where-do-students-go/)
 
 ## Table of Contents
 - [Project Description](#project-description)
