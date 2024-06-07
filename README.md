@@ -36,6 +36,7 @@ The repository is organized as follows:
    │       └── ci.yml
    │
    ├── .gitignore
+   ├── eu-pers-article.pdf
    ├── README.md
    ├── index.html
    ├── scripts.js
