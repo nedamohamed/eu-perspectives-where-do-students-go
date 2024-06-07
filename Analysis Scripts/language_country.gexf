@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-06-07">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="ALB" label="ALB" />
+      <node id="AUT" label="AUT" />
+      <node id="BEL" label="BEL" />
+      <node id="BGR" label="BGR" />
+      <node id="CHE" label="CHE" />
+      <node id="CYP" label="CYP" />
+      <node id="CZE" label="CZE" />
+      <node id="DEU" label="DEU" />
+      <node id="DNK" label="DNK" />
+      <node id="EST" label="EST" />
+      <node id="ESP" label="ESP" />
+      <node id="FIN" label="FIN" />
+      <node id="FRA" label="FRA" />
+      <node id="HRV" label="HRV" />
+      <node id="HUN" label="HUN" />
+      <node id="ITA" label="ITA" />
+      <node id="LTU" label="LTU" />
+      <node id="LUX" label="LUX" />
+      <node id="LVA" label="LVA" />
+      <node id="MKD" label="MKD" />
+      <node id="NLD" label="NLD" />
+      <node id="NOR" label="NOR" />
+      <node id="POL" label="POL" />
+      <node id="PRT" label="PRT" />
+      <node id="ROU" label="ROU" />
+      <node id="SRB" label="SRB" />
+      <node id="SWE" label="SWE" />
+      <node id="SVN" label="SVN" />
+      <node id="SVK" label="SVK" />
+      <node id="TUR" label="TUR" />
+      <node id="GBR" label="GBR" />
+      <node id="GRC" label="GRC" />
+      <node id="ISL" label="ISL" />
+      <node id="LIE" label="LIE" />
+      <node id="MLT" label="MLT" />
+      <node id="BIH" label="BIH" />
+      <node id="IRL" label="IRL" />
+      <node id="MNE" label="MNE" />
+    </nodes>
+    <edges>
+      <edge source="ALB" target="MKD" id="0" />
+      <edge source="AUT" target="BEL" id="1" />
+      <edge source="AUT" target="CHE" id="2" />
+      <edge source="AUT" target="DEU" id="3" />
+      <edge source="AUT" target="LUX" id="4" />
+      <edge source="AUT" target="LIE" id="5" />
+      <edge source="BEL" target="CHE" id="6" />
+      <edge source="BEL" target="DEU" id="7" />
+      <edge source="BEL" target="FRA" id="8" />
+      <edge source="BEL" target="LUX" id="9" />
+      <edge source="BEL" target="NLD" id="10" />
+      <edge source="BEL" target="LIE" id="11" />
+      <edge source="CHE" target="DEU" id="12" />
+      <edge source="CHE" target="FRA" id="13" />
+      <edge source="CHE" target="ITA" id="14" />
+      <edge source="CHE" target="LUX" id="15" />
+      <edge source="CHE" target="LIE" id="16" />
+      <edge source="CYP" target="TUR" id="17" />
+      <edge source="CYP" target="GRC" id="18" />
+      <edge source="DEU" target="LUX" id="19" />
+      <edge source="DEU" target="LIE" id="20" />
+      <edge source="FRA" target="LUX" id="21" />
+      <edge source="HRV" target="BIH" id="22" />
+      <edge source="LUX" target="LIE" id="23" />
+      <edge source="SRB" target="BIH" id="24" />
+      <edge source="GBR" target="MLT" id="25" />
+      <edge source="GBR" target="IRL" id="26" />
+      <edge source="MLT" target="IRL" id="27" />
+    </edges>
+  </graph>
+</gexf>
