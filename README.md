@@ -19,11 +19,11 @@ The repository is organized as follows:
    │
    ├── Analysis Scripts/
    │   ├── Data Analysis.ipynb
-   │   └── Data Cleaning.ipynb
-   │   └── Generating Models.ipynb
-   │   └── Data Analysis Visuals // contains the graphs
-   │   └── data // contains the data used for the project
-   │   └── Normalized Graphs // contains the mobility networks with normalized values
+   │   ├── Data Cleaning.ipynb
+   │   ├── Generating Models.ipynb
+   │   ├── Data Analysis Visuals // contains the graphs
+   │   ├── data // contains the data used for the project
+   │   ├── Normalized Graphs // contains the mobility networks with normalized values
    │   └── Non-normalized Graphs // Contains the mobility networks with non-normalized values
    │
    ├── Visualizations/
