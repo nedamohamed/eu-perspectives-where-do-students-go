@@ -48,8 +48,8 @@ The repository is organized as follows:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nedamohamed/eu-perspectives-where-do-students-go.git```
+   git clone https://github.com/nedamohamed/eu-perspectives-where-do-students-go.git
 2. Navigate to the project directory:
    ```bash
-   cd eu-perspectives-where-do-students-go```
+   cd eu-perspectives-where-do-students-go
 3. Open index.html in a web browser to view the visualizations.
