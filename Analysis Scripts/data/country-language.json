@@ -1,0 +1,129 @@
+{
+    "ALB": [
+        "Albanian"
+    ],
+    "AUT": [
+        "German"
+    ],
+    "BEL": [
+        "Dutch",
+        "French",
+        "German"
+    ],
+    "BGR": [
+        "Bulgarian"
+    ],
+    "CHE": [
+        "Romansh",
+        "French",
+        "German",
+        "Italian"
+    ],
+    "CYP": [
+        "Greek",
+        "Turkish"
+    ],
+    "CZE": [
+        "Czech"
+    ],
+    "DEU": [
+        "German"
+    ],
+    "DNK": [
+        "Danish"
+    ],
+    "EST": [
+        "Estonian"
+    ],
+    "ESP": [
+        "Spanish"
+    ],
+    "FIN": [
+        "Finnish"
+    ],
+    "FRA": [
+        "French"
+    ],
+    "HRV": [
+        "Croatian"
+    ],
+    "HUN": [
+        "Hungarian"
+    ],
+    "ITA": [
+        "Italian"
+    ],
+    "LTU": [
+        "Lithuanian"
+    ],
+    "LUX": [
+        "Luxembourgish",
+        "German",
+        "French"
+    ],
+    "LVA": [
+        "Latvian"
+    ],
+    "MKD": [
+        "Macedonian",
+        "Albanian"
+    ],
+    "NLD": [
+        "Dutch"
+    ],
+    "NOR": [
+        "Norweigan"
+    ],
+    "POL": [
+        "Polish"
+    ],
+    "PRT": [
+        "Portuguese"
+    ],
+    "ROU": [
+        "Romanian"
+    ],
+    "SRB": [
+        "Serbian"
+    ],
+    "SWE": [
+        "Swedish"
+    ],
+    "SVN": [
+        "Slovenian"
+    ],
+    "SVK": [
+        "Slovak"
+    ],
+    "TUR": [
+        "Turkish"
+    ],
+    "GBR": [
+        "English"
+    ],
+    "GRC": [
+        "Greek"
+    ],
+    "ISL": [
+        "Icelandic"
+    ],
+    "LIE": [
+        "German"
+    ],
+    "MLT": [
+        "Maltese",
+        "English"
+    ],
+    "BIH": [
+        "Serbian",
+        "Croatian",
+        "Bosnian"
+    ],
+    "IRL": [
+        "Irish",
+        "English"
+    ],
+    "MNE": [
+        "Montenegrin"
+    ]
+}

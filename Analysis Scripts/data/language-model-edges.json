@@ -1,0 +1,710 @@
+[
+    {
+        "source": "ALB",
+        "target": "GRC",
+        "weight": 1,
+        "family": "Indo-European"
+    },
+    {
+        "source": "ALB",
+        "target": "CYP",
+        "weight": 1,
+        "family": "Indo-European"
+    },
+    {
+        "source": "ALB",
+        "target": "MKD",
+        "weight": 1,
+        "family": "Indo-European"
+    },
+    {
+        "source": "GRC",
+        "target": "CYP",
+        "weight": 1,
+        "family": "Indo-European"
+    },
+    {
+        "source": "GRC",
+        "target": "MKD",
+        "weight": 1,
+        "family": "Indo-European"
+    },
+    {
+        "source": "CYP",
+        "target": "MKD",
+        "weight": 1,
+        "family": "Indo-European"
+    },
+    {
+        "source": "CYP",
+        "target": "TUR",
+        "weight": 1,
+        "family": "Turkic"
+    },
+    {
+        "source": "MKD",
+        "target": "HRV",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MKD",
+        "target": "SRB",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MKD",
+        "target": "SVN",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MKD",
+        "target": "MNE",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MKD",
+        "target": "BIH",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MKD",
+        "target": "BGR",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MLT",
+        "target": "NLD",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "CHE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "DEU",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "IRL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "BEL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "AUT",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "MLT",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "CHE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "DEU",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "IRL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "BEL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "AUT",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NLD",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "DEU",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "IRL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "BEL",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "CHE",
+        "target": "AUT",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "CHE",
+        "target": "LUX",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "CHE",
+        "target": "ROU",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "CHE",
+        "target": "ITA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "CHE",
+        "target": "FRA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "CHE",
+        "target": "PRT",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "CHE",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "DEU",
+        "target": "IRL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "DEU",
+        "target": "BEL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "DEU",
+        "target": "AUT",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "DEU",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "DEU",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "DEU",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "DEU",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "IRL",
+        "target": "BEL",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "IRL",
+        "target": "AUT",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "IRL",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "IRL",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "IRL",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "IRL",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "BEL",
+        "target": "AUT",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "BEL",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "BEL",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "BEL",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "BEL",
+        "target": "LUX",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "BEL",
+        "target": "ROU",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "BEL",
+        "target": "ITA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "BEL",
+        "target": "FRA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "BEL",
+        "target": "PRT",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "BEL",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "AUT",
+        "target": "NOR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "AUT",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "AUT",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "AUT",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NOR",
+        "target": "LIE",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NOR",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "NOR",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "LIE",
+        "target": "GBR",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "LIE",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "GBR",
+        "target": "LUX",
+        "weight": 1,
+        "family": "West Germanic"
+    },
+    {
+        "source": "LUX",
+        "target": "ROU",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "LUX",
+        "target": "ITA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "LUX",
+        "target": "FRA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "LUX",
+        "target": "PRT",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "LUX",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ROU",
+        "target": "ITA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ROU",
+        "target": "FRA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ROU",
+        "target": "PRT",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ROU",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ITA",
+        "target": "FRA",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ITA",
+        "target": "PRT",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "ITA",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "FRA",
+        "target": "PRT",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "FRA",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "PRT",
+        "target": "ESP",
+        "weight": 1,
+        "family": "Romance"
+    },
+    {
+        "source": "HRV",
+        "target": "SRB",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "HRV",
+        "target": "SVN",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "HRV",
+        "target": "MNE",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "HRV",
+        "target": "BIH",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "HRV",
+        "target": "BGR",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SRB",
+        "target": "SVN",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SRB",
+        "target": "MNE",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SRB",
+        "target": "BIH",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SRB",
+        "target": "BGR",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SVN",
+        "target": "MNE",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SVN",
+        "target": "BIH",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SVN",
+        "target": "BGR",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MNE",
+        "target": "BIH",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "MNE",
+        "target": "BGR",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "BIH",
+        "target": "BGR",
+        "weight": 1,
+        "family": "South Slavik"
+    },
+    {
+        "source": "SVK",
+        "target": "CZE",
+        "weight": 1,
+        "family": "West Slavic"
+    },
+    {
+        "source": "SVK",
+        "target": "POL",
+        "weight": 1,
+        "family": "West Slavic"
+    },
+    {
+        "source": "CZE",
+        "target": "POL",
+        "weight": 1,
+        "family": "West Slavic"
+    },
+    {
+        "source": "DNK",
+        "target": "ISL",
+        "weight": 1,
+        "family": "North Germanic"
+    },
+    {
+        "source": "DNK",
+        "target": "SWE",
+        "weight": 1,
+        "family": "North Germanic"
+    },
+    {
+        "source": "ISL",
+        "target": "SWE",
+        "weight": 1,
+        "family": "North Germanic"
+    },
+    {
+        "source": "HUN",
+        "target": "FIN",
+        "weight": 1,
+        "family": "Uralic"
+    },
+    {
+        "source": "HUN",
+        "target": "EST",
+        "weight": 1,
+        "family": "Uralic"
+    },
+    {
+        "source": "FIN",
+        "target": "EST",
+        "weight": 1,
+        "family": "Uralic"
+    },
+    {
+        "source": "LTU",
+        "target": "LVA",
+        "weight": 1,
+        "family": "Baltic"
+    }
+]
