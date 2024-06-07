@@ -73,8 +73,6 @@ footer {
     background-color: #1c3b70; /* Darker blue */
     color: white;
     text-align: center;
-    padding: 1rem;
-    position: fixed;
-    bottom: 0;
+    padding: 10px 0;
     width: 100%;
 }
